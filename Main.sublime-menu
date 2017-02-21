@@ -1,0 +1,9 @@
+[
+    {
+        "id": "file",
+        "children":
+		[
+            { "command": "file_rename", "caption": "Rename File", "mnemonic": "R" }
+        ]
+    }
+]
